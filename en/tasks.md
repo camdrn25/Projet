@@ -1,7 +1,7 @@
 # SimpleText@CLEF-2024 Tasks
 
-[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
-[Program](./program) | [Publications](./publications) | [Organizers](./organizers) | [Contact](./contact) | [CLEF-2023](https://simpletext-project.com/2023/clef/)
+[Home](../) | [Call for papers](../en/CFP.md) | [Important dates](../en/dates.md) | [Tasks](../en/tasks.md)  | [Tools](../en/tools.md) | 
+[Program](../en/program.md) | [Publications](../en/publications.md) | [Organizers](../en/organizers.md) | [Contact](../en/contact.md) | [CLEF-2023](https://simpletext-project.com/2023/clef/)
 
 ---
 ## How to participate
